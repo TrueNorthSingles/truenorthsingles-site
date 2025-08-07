@@ -2,7 +2,7 @@
 
 _Last-sold prices & ROI dashboards for Magic: the Gathering, Pokémon, and other Trading Card Games._
 
-markdown<br>![Banner](banner.png)<br>(https://placehold.co/1100x200?text=TrueNorthSingles+Analytics)
+<br>![Banner](banner.png)<br>
 
 ## 🚀 Key Features
 - **Real-time last-sold price & date** pulled from eBay Marketplace Insights  
