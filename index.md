@@ -1,4 +1,4 @@
-## TrueNorthSingles – TCG Price & Inventory Analytics
+## TCG Price & Inventory Analytics
 _Last-sold prices & ROI dashboards for Magic: the Gathering, Pokémon, and other Trading Card Games._
 
 <br>![Banner](banner.png)<br>
