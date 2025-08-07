@@ -1,3 +1,3 @@
-title: TrueNorthSingles                # this becomes the blue nav-bar title
-description: TCG Price & Inventory Analytics
-theme: jekyll-theme-slate              # try cayman, midnight, minima, etc.
+title: TrueNorthSingles
+description: Canadian TCG Price Tracker
+theme: jekyll-theme-slate
