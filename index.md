@@ -1,5 +1,4 @@
 # TrueNorthSingles – TCG Price & Inventory Analytics
-
 _Last-sold prices & ROI dashboards for Magic: the Gathering, Pokémon, and other Trading Card Games._
 
 <br>![Banner](banner.png)<br>
@@ -23,7 +22,7 @@ We call the *Marketplace Insights* API ≤ **2 000 requests per day**, cache the
 |v2.0 | Automated eBay listing flow | 2026 |
 
 ## 📬 Contact
-**Email:** truenorthsingles@gmail.com  
+[Email us](mailto:truenorthsingles@gmail.com)
 **GitHub:** [TrueNorthSingles](https://github.com/TrueNorthSingles)
 
 ---
