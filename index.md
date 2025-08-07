@@ -23,7 +23,7 @@ We call the *Marketplace Insights* API ≤ **2 000 requests per day**, cache the
 |v2.0 | Automated eBay listing flow | 2026 |
 
 ## 📬 Contact
-**Email:** hello@truenorthsingles.ca  
+**Email:** truenorthsingles@gmail.com  
 **GitHub:** [TrueNorthSingles](https://github.com/TrueNorthSingles)
 
 ---
